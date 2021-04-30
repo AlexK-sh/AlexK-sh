@@ -1,6 +1,6 @@
-### Hi there 👋
+### Hola 👋
 
- ✨ Hola, Soy un desarrolador enfocado en NodeJS✨ 
+ ✨ Soy un desarrolador enfocado en NodeJS✨ 
 
 Actualmente estoy trabajando en:
 
